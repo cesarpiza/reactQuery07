@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "id": "2",
+      "userId": 1,
+      "name": "macarrao",
+      "price": "26",
+      "image": "https://www.sabornamesa.com.br/media/k2/items/cache/665e96c29d55b13435d7a8d39deafe53_XL.jpg"
+    },
+    {
+      "id": "3",
+      "userId": 1,
+      "name": "sopa de legumes",
+      "price": "15",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/del089923-chicken-soup-web-254-rv-vertical-64dfccd9f3556.jpg"
+    },
+    {
+      "id": "4",
+      "userId": 1,
+      "name": "doce de chocolate",
+      "price": "22",
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/09/06/istock-1313079918-sokmkksb767p.jpg"
+    }
+  ]
+}
